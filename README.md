@@ -28,16 +28,6 @@ You’ll gain proficiency in the following tasks:
 
 ---
 
-## Files
-
-Download the following files to help you get started:
-
-[Forecasting Net Prophet notebook](Starter_Code/forecasting_net_prophet.ipynb)
-
-[Data files](Starter_code/Resources)
-
----
-
 ## Instructions
 
 First, configure a Google Colaboratory, or Colab, workspace as follows:
